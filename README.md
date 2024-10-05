@@ -1,3 +1,7 @@
-## Run Front end
+## Run Frontend
 
 ### npm run dev
+
+## Run Backend
+
+### npm start
